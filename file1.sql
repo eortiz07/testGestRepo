@@ -1,6 +1,6 @@
 -- file1
 
-
+-- other branch
 
 DROP TABLE `myTable`;
 -- nueva linea
