@@ -1,3 +1,6 @@
+-- file2
+
+
 DROP TABLE `myTable`;
 -- nueva linea
 -- nueva linea

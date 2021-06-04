@@ -1,3 +1,6 @@
+-- file5
+
+
 DROP TABLE `myTable`;
 
 CREATE TABLE `myTable` (

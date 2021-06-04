@@ -1,3 +1,6 @@
+-- file4
+
+
 DELETE FROM `other_table` WHERE `id` = 1;
 DELETE FROM `other_table` WHERE `id` = 2;
 DELETE FROM `other_table` WHERE `id` = 3;

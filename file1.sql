@@ -1,3 +1,7 @@
+-- file1
+
+
+
 DROP TABLE `myTable`;
 -- nueva linea
 CREATE TABLE `myTable` (
