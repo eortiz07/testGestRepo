@@ -1,6 +1,6 @@
 -- file6
 
-
+-- comment
 DELETE FROM `myTable` WHERE `id` = 1;
 DELETE FROM `myTable` WHERE `id` = 2;
 DELETE FROM `myTable` WHERE `id` = 3;
