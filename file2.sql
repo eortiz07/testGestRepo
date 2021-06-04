@@ -1,5 +1,8 @@
 DROP TABLE `myTable`;
 -- nueva linea
+-- nueva linea
+-- nueva linea
+-- nueva linea
 CREATE TABLE `myTable` (
   `id` mediumint(8) unsigned NOT NULL auto_increment,
   `colum_1` varchar(255) default NULL,
